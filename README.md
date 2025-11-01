@@ -39,4 +39,4 @@ This repository contains the code for the EN3150 Pattern Recognition assignment.
 * **Arththikan S.** - 220043F
 * **Jathees S.** - 220244X
 * **Sampavi J.** - 220561P
-* **Thayalesan M.** - 220637F
+* **Thayalanesan M.** - 220637F
